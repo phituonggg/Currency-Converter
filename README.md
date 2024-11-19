@@ -38,4 +38,4 @@ Select currencies from a dropdown using a picker.
 7. Build for Production (optional)
      If you'd like to build the app for production, follow the React Native official documentation for both Android and iOS.
 
-link video demo : 
+link video demo : https://youtu.be/tSYwSvYOCXE
