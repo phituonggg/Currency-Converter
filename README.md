@@ -20,7 +20,7 @@ Emulator or physical device for testing.
 Steps to Build and Run the App
 
 1. Clone the Repository
-       git clone .git
+       git clone https://github.com/phituonggg/Currency-Converter.git
        cd currency-converter-app
 2.  Install Dependencies : Before running the app, you need to install all the necessary dependencies. Run the following command:
         npm install
@@ -33,13 +33,5 @@ Steps to Build and Run the App
          npx react-native run-ios / npm start
 4. Build for Production (optional)
      If you'd like to build the app for production, follow the React Native official documentation for both Android and iOS.
-
-    Challenges & Notes
-   
-- API Limitation: Some free exchange rate APIs have rate limits or do not support certain currencies. This can lead to incomplete currency lists or conversion failures in some scenarios.
-- Network Issues: If the app cannot fetch data due to a network problem, an alert will notify the user of the issue.
-- React Native Version: Make sure to use React Native 0.76.x to avoid compatibility issues with some libraries like axios and react-native-picker-select.
-- Permissions: For Android, ensure the app has internet permission configured in AndroidManifest.xml:
-        <uses-permission android:name="android.permission.INTERNET"/>
 
 link video demo : 
