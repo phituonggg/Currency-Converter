@@ -36,10 +36,10 @@ Steps to Build and Run the App
 
     Challenges & Notes
    
-API Limitation: Some free exchange rate APIs have rate limits or do not support certain currencies. This can lead to incomplete currency lists or conversion failures in some scenarios.
-Network Issues: If the app cannot fetch data due to a network problem, an alert will notify the user of the issue.
-React Native Version: Make sure to use React Native 0.76.x to avoid compatibility issues with some libraries like axios and react-native-picker-select.
-Permissions: For Android, ensure the app has internet permission configured in AndroidManifest.xml:
+- API Limitation: Some free exchange rate APIs have rate limits or do not support certain currencies. This can lead to incomplete currency lists or conversion failures in some scenarios.
+- Network Issues: If the app cannot fetch data due to a network problem, an alert will notify the user of the issue.
+- React Native Version: Make sure to use React Native 0.76.x to avoid compatibility issues with some libraries like axios and react-native-picker-select.
+- Permissions: For Android, ensure the app has internet permission configured in AndroidManifest.xml:
         <uses-permission android:name="android.permission.INTERNET"/>
 
 link video demo : 
