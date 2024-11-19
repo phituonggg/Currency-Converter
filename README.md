@@ -13,11 +13,11 @@ Select currencies from a dropdown using a picker.
 
   Prerequisites
   
-Node.js (>= 14.x)
-React Native CLI (>= 0.76.x)
-Android Studio or Xcode for iOS (depending on the platform you're targeting)
-Emulator or physical device for testing.
-Steps to Build and Run the App
+- Node.js (>= 14.x)
+- React Native CLI (>= 0.76.x)
+- Android Studio or Xcode for iOS (depending on the platform you're targeting)
+- Emulator or physical device for testing.
+- Steps to Build and Run the App
 
 1. Clone the Repository
        git clone https://github.com/phituonggg/Currency-Converter.git
