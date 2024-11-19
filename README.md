@@ -20,7 +20,7 @@ Emulator or physical device for testing.
 Steps to Build and Run the App
 
 1. Clone the Repository
-       git clone https://github.com/your-username/currency-converter-app.git
+       git clone .git
        cd currency-converter-app
 2.  Install Dependencies : Before running the app, you need to install all the necessary dependencies. Run the following command:
         npm install
