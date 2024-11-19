@@ -1,6 +1,7 @@
 # Currency-Converter
 
-Overview
+  Overview
+
 The Currency Converter is a simple mobile application built using React Native that allows users to convert between different currencies. The app fetches live exchange rates from a public API and provides real-time currency conversion. It features a clean, user-friendly interface where users can input an amount, select the source and target currencies, and view the converted result. Basic error handling is included to manage invalid inputs and network issues.
 
   Features
