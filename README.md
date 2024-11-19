@@ -22,16 +22,20 @@ Select currencies from a dropdown using a picker.
 1. Clone the Repository
        git clone https://github.com/phituonggg/Currency-Converter.git
        cd currency-converter-app
-2.  Install Dependencies : Before running the app, you need to install all the necessary dependencies. Run the following command:
+   
+3.  Install Dependencies : Before running the app, you need to install all the necessary dependencies. Run the following command:
         npm install
-3. Running the App on Android/iOS
+    
+5. Running the App on Android/iOS
     For Android:
     Make sure you have an Android emulator running or connect an Android device via USB, then run:
          npx react-native run-android / npm start
+   
     For iOS:
     Ensure you have an iOS simulator running or connect an iOS device via USB, then run:
          npx react-native run-ios / npm start
-4. Build for Production (optional)
+   
+7. Build for Production (optional)
      If you'd like to build the app for production, follow the React Native official documentation for both Android and iOS.
 
 link video demo : 
